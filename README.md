@@ -1,4 +1,4 @@
-# EDUELITE: a smart education solution that optimizes their learning experience.
+# EDUELITE: a smart education solution that optimizes learning experience.
 It is an innovative app that uses flutter, firebase, hive and agora to make learning more effective, efficient, flexible, and comfortable. Our primary goal is to foster collaboration among students and enhance their productivity.
 Unlike traditional learning apps, it combines collaborative video calls, gamified study timers, doubt resolution, and versatile note-making in one platform. Our innovation lies in creating a comprehensive, engaging, and effective learning experience that adapts to the digital age.
 ## Features:
